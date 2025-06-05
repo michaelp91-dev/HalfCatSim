@@ -1,0 +1,359 @@
+Raw Values for Sheet: Home
+
+A1: HalfCatSim
+B1: None
+C1: None
+D1: None
+E1: None
+F1: None
+G1: v1.3.10
+H1: Copyright 2025 Half Cat Rocketry
+I1: None
+J1: None
+K1: None
+L1: IMPORTANT!!!
+M1: None
+N1: None
+O1: None
+P1: None
+Q1: None
+A2: None
+B2: None
+C2: None
+D2: None
+E2: None
+F2: None
+G2: None
+H2: This program comes with ABSOLUTELY NO WARRANTY.
+I2: None
+J2: None
+K2: None
+L2: This program is designed to work for reasonable values within the typical bounds of standard amateur liquid motors.
+M2: None
+N2: None
+O2: None
+P2: None
+Q2: None
+A3: None
+B3: None
+C3: None
+D3: None
+E3: None
+F3: None
+G3: None
+H3: HalfCatSim is free software. You can redistribute it according to the GNU GPL version 3.
+I3: None
+J3: None
+K3: None
+L3: None
+M3: None
+N3: None
+O3: None
+P3: None
+Q3: None
+A4: None
+B4: None
+C4: None
+D4: None
+E4: None
+F4: None
+G4: None
+H4: None
+I4: None
+J4: None
+K4: None
+L4: Reality may differ from unrealistic values. Some understanding of reasonable inputs and outputs is required.
+M4: None
+N4: None
+O4: None
+P4: None
+Q4: None
+A5: None
+B5: None
+C5: None
+D5: None
+E5: None
+F5: None
+G5: None
+H5: See the License tab for details.
+I5: None
+J5: None
+K5: None
+L5: None
+M5: None
+N5: None
+O5: None
+P5: None
+Q5: None
+A6: NOTIFICATIONS
+B6: None
+C6: None
+D6: None
+E6: None
+F6: None
+G6: None
+H6: None
+I6: None
+J6: None
+K6: None
+L6: INDEX
+M6: None
+N6: None
+O6: None
+P6: None
+Q6: None
+A7: HalfCatSim is a tool for the design and simulation of nitrous oxide (N2O) blowdown liquid bipropellant motors.
+B7: None
+C7: None
+D7: None
+E7: None
+F7: None
+G7: None
+H7: None
+I7: None
+J7: None
+K7: None
+L7: Motor Simulation
+M7: Combustion simulation
+N7: None
+O7: None
+P7: None
+Q7: None
+A8: It is primarily made for "Half Cat style" self-pressurization of oxidizer and fuel (using a piston).
+B8: None
+C8: None
+D8: None
+E8: None
+F8: None
+G8: None
+H8: None
+I8: None
+J8: None
+K8: None
+L8: Pressure Vessel
+M8: Hardware calculations
+N8: None
+O8: None
+P8: None
+Q8: None
+A9: This program is not a guarantee of safety, nor that your motor will work.
+B9: None
+C9: None
+D9: None
+E9: None
+F9: None
+G9: None
+H9: None
+I9: None
+J9: None
+K9: None
+L9: License
+M9: Copyright information
+N9: None
+O9: None
+P9: None
+Q9: None
+A10: Simulation results are to be treated as approximate, even with experimental data.
+B10: None
+C10: None
+D10: None
+E10: None
+F10: None
+G10: None
+H10: None
+I10: None
+J10: None
+K10: None
+L10: References
+M10: Miscellaneous reference data
+N10: None
+O10: None
+P10: None
+Q10: None
+A11: Rockets are dangerous. Build and test at your own risk.
+B11: None
+C11: None
+D11: None
+E11: None
+F11: None
+G11: None
+H11: None
+I11: None
+J11: None
+K11: None
+L11: N2O, Fuel
+M11: Reference data for fuels and oxidizer
+N11: None
+O11: None
+P11: None
+Q11: None
+A12: Always follow safety practices, especially with regard to safe standoff distances!
+B12: None
+C12: None
+D12: None
+E12: None
+F12: None
+G12: None
+H12: None
+I12: None
+J12: None
+K12: None
+L12: Calculation
+M12: Back-end calculations for Motor Simulation
+N12: None
+O12: None
+P12: None
+Q12: None
+A13: By using this program, you hereby release Half Cat Rocketry from any and all liability arising from your usage.
+B13: None
+C13: None
+D13: None
+E13: None
+F13: None
+G13: None
+H13: None
+I13: None
+J13: None
+K13: None
+L13: Isentropic Flow
+M13: Tables for calculating compressible gas properties
+N13: None
+O13: None
+P13: None
+Q13: None
+A14: https://www.halfcatrocketry.com/halfcatsim
+B14: None
+C14: None
+D14: None
+E14: None
+F14: None
+G14: None
+H14: None
+I14: None
+J14: None
+K14: None
+L14: STANDOFF DISTANCES
+M14: None
+N14: None
+O14: None
+P14: None
+Q14: None
+A15: None
+B15: None
+C15: None
+D15: None
+E15: None
+F15: None
+G15: None
+H15: None
+I15: None
+J15: None
+K15: None
+L15: Impulse Class
+M15: Minimum safe clear distance (feet)
+N15: None
+O15: None
+P15: None
+Q15: None
+A16: None
+B16: None
+C16: None
+D16: None
+E16: None
+F16: None
+G16: None
+H16: None
+I16: None
+J16: None
+K16: None
+L16: A – G
+M16: 200
+N16: None
+O16: None
+P16: None
+Q16: None
+A17: None
+B17: None
+C17: None
+D17: None
+E17: None
+F17: None
+G17: None
+H17: None
+I17: None
+J17: None
+K17: None
+L17: H – I
+M17: 250
+N17: None
+O17: None
+P17: None
+Q17: None
+A18: None
+B18: None
+C18: None
+D18: None
+E18: None
+F18: None
+G18: None
+H18: None
+I18: None
+J18: None
+K18: None
+L18: J – K
+M18: 350
+N18: None
+O18: None
+P18: None
+Q18: None
+A19: None
+B19: None
+C19: None
+D19: None
+E19: None
+F19: None
+G19: None
+H19: None
+I19: None
+J19: None
+K19: None
+L19: L – M
+M19: 500
+N19: None
+O19: None
+P19: None
+Q19: None
+A20: None
+B20: None
+C20: None
+D20: None
+E20: None
+F20: None
+G20: None
+H20: None
+I20: None
+J20: None
+K20: None
+L20: N – O
+M20: 750
+N20: None
+O20: None
+P20: None
+Q20: None
+A21: None
+B21: None
+C21: None
+D21: None
+E21: None
+F21: None
+G21: None
+H21: None
+I21: None
+J21: None
+K21: None
+L21: Over O
+M21: 1000
+N21: None
+O21: None
+P21: None
+Q21: None
