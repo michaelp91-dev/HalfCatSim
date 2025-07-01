@@ -6,7 +6,7 @@ This repository contains a Python-based rocket motor simulator and optimizer.
 
 Click the button below to open the simulation directly in Google Colab.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<YOUR_GITHUB_USERNAME>/<YOUR_REPOSITORY_NAME>/blob/main/halfcatsim.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michaelp91-dev/halfcatsim/blob/main/halfcatsim.ipynb)
 
 **Important:** Before the link will work, you need to:
 1.  Push this repository to your own GitHub account.
